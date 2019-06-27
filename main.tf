@@ -22,4 +22,6 @@ output "orders" {
     Marissa = "Blueberry"
     Beth = null
   }
+
+  sensitive = true
 }
